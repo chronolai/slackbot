@@ -1,3 +1,4 @@
 <?php
 define('TOKEN', 'your_token');
+define('BOT_NAME', 'bot_name');
 
