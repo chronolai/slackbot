@@ -1,4 +1,4 @@
-# synosdg2-slackbot
+# Slackbot
 
 ``` shell
 $ cd your_web_path
